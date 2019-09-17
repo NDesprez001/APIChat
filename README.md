@@ -1,2 +1,0 @@
-# APIChat
-Created with CodeSandbox
